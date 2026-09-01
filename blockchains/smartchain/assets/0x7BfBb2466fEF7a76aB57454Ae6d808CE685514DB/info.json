@@ -23,6 +23,10 @@
         {
             "name": "github",
             "url": "https://github.com/bnbspoll"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.geckoterminal.com/bsc/pools/0xd62d5410e2e67fe26366357cde1c4f1f8913d91d"
         }
     ]
 }
